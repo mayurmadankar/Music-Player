@@ -1,0 +1,1 @@
+MusicBox is a sleek, responsive music player website that offers intuitive navigation, personalized playlists, and customizable themes. With standard playback controls, stunning audio visualization, and offline mode, MusicBox ensures an immersive listening experience for music enthusiasts everywhere.
